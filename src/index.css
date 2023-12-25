@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700&family=Nunito:wght@200&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Shadow";
+    src: url("../public/fonts/shadow/TTF/Shadow_regular.ttf");
+}
+
+.section-margin {
+    margin: 8rem 0;
+}
+
+h1 {
+    font-family: 'Shadow';
+    color: #435327;
+    font-size: 42px;
+
+}
