@@ -3,7 +3,7 @@ import Card from "../containers/Card"
 
 const Experience = () => {
     return (
-    <div className="flex flex-col justify-center w-full p-3 items-center">
+    <div className="z-10 flex flex-col justify-center w-full p-3 items-center">
         <div className="absolute w-[200px] h-[200px] bg-[#DEAA23] blur-[150px] bottom-200 left-0"></div>
         <div className="absolute w-[300px] h-[300px] bg-[#83956B] blur-[150px] bottom-500 right-10"></div>
 

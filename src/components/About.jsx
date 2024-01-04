@@ -10,20 +10,20 @@ const About = () => {
         <div className="flex flex-col justify-center ">
             <h1 className="text-basegreen font-shadow mb-10 text-2xl">Диана Ибрагимова</h1>
             <div className="flex items-center py-5">
-                <div className="bg-[#637446] w-5 h-5 rounded-xl mr-5"></div>
-                <p>Семейный психолог</p>
+                <div className="bg-[#637446] w-3 h-3 rounded-xl mr-5"></div>
+                <p className="font-nunito text-[18px]">Семейный психолог</p>
             </div>
             <div className="flex items-center py-5">
-                <div className="bg-[#637446] w-5 h-5 rounded-xl mr-5"></div>
-                <p>Тренер ИРСУ 2010-2023</p>
+                <div className="bg-[#637446] w-3 h-3 rounded-xl mr-5"></div>
+                <p className="font-nunito text-[18px]">Тренер ИРСУ 2010-2023</p>
             </div>
             <div className="flex items-center py-5">
-                <div className="bg-[#637446] w-5 h-5 rounded-xl mr-5"></div>
-                <p>Приемная мама</p>
+                <div className="bg-[#637446] w-3 h-3 rounded-xl mr-5"></div>
+                <p className="font-nunito text-[18px]">Приемная мама</p>
             </div>
             <div className="flex items-center py-5">
-                <div className="bg-[#637446] w-5 h-5 rounded-xl mr-5"></div>
-                <p>Еще кто-то</p>
+                <div className="bg-[#637446] w-3 h-3 rounded-xl mr-5"></div>
+                <p className="font-nunito text-[18px]">Еще кто-то</p>
             </div>
             <div></div>
         </div>
